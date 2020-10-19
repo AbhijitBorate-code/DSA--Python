@@ -1,5 +1,0 @@
-print("hii my name abhijit")
-
-print("hii baybes")
-jhgjhgjhg
-kj
